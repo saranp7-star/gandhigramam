@@ -7,4 +7,7 @@ sachin
 sehwag
 dravid1
 yuvarj
+dhoni
+kohli
+rohit
 
