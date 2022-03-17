@@ -3,3 +3,6 @@ train
 bus
 car 
 aerpoplane
+dhoni
+kohli
+rohit
